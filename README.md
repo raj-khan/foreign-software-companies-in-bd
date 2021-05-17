@@ -26,7 +26,7 @@ Monstarlab is a digital consultancy established in 2006 in Tokyo, Japan. The com
 
 
 ## Cefalo Bangladesh Ltd
-![Logo](https://github.com/raj-khan/raj-khan.github.io/blob/master/universal-banners/monstar-lab-logo.png)
+![Logo](https://github.com/raj-khan/raj-khan.github.io/blob/master/universal-banners/cefalo-bangladesh-logo.png)
 
 Cefalo is a Norway based software development and IT service provider company. We have 100+ highly skilled software development consultants in a wide range of technologies to implement both high performing back-end and stunning front-end for web & mobile.
 
