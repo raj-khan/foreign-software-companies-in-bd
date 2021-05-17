@@ -1,5 +1,5 @@
 # Top Foreign Software Companies in Bangladesh
-a list of reupdated foreign software companies for developers.
+A list with details information of foreign software companies in bangladesh.
 
 ![Logo](https://github.com/raj-khan/raj-khan.github.io/blob/master/universal-banners/top-foreign-software-companies-in-bd.png)
 
